@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title></title>
+	<title>Society for Structuralist Philosophy</title>
 </head>
 <body>
 <h1 style="text-align: center;"><span style="font-family:times new roman,times,serif;"><strong>Society for Structuralist Philosophy</strong></span></h1>
