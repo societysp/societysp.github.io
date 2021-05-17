@@ -1,1 +1,0 @@
-# societysp.github.io
