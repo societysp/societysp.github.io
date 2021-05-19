@@ -162,13 +162,13 @@ sup {
 }
 
 a {
-  color: #007bff;
-  text-decoration: none;
+  color: #ffffff;
+  text-decoration: underline;
   background-color: transparent;
 }
 a:hover {
-  color: #0056b3;
-  text-decoration: underline;
+  color: #5E8F6C;
+  text-decoration: none;
 }
 
 a:not([href]):not([class]) {
@@ -389,6 +389,11 @@ h5, .h5 {
 
 h6, .h6 {
   font-size: 1rem;
+}
+
+.col-centered{
+float: none;
+margin: 0 auto;
 }
 
 .lead {
