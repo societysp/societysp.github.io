@@ -10012,18 +10012,18 @@ h3 {
   }
   @font-face {
     font-family: "ModernSerif";
-    src: url("./fonts/ModernSerif.ttf");
+    src: url("/fonts/ModernSerif.ttf");
   }
   @font-face {
     font-family: "Philosopher";
-    src: url("./fonts/PhilosopherRegular.ttf");
+    src: url("/fonts/PhilosopherRegular.ttf");
   }
   @font-face {
     font-family: "PhilosopherBold";
-    src: url("./fonts/PhilosopherBold.ttf");
+    src: url("/fonts/PhilosopherBold.ttf");
   }
   @font-face {
     font-family: "Barcade";
-    src: url("./fonts/Barcade.otf");
+    src: url("/fonts/Barcade.otf");
   }
 }
