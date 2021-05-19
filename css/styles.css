@@ -170,6 +170,10 @@ a:hover {
   color: #5E8F6C;
   text-decoration: none;
 }
+.nav-links {
+  color: #5E8F6C
+  text-decoration:: none;
+}
 
 a:not([href]):not([class]) {
   color: inherit;
@@ -3897,9 +3901,12 @@ input[type=button].btn-block {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
+  text-decoration: none;
+  color: #5E8F6C;
 }
 .nav-link:hover, .nav-link:focus {
   text-decoration: none;
+  color: white;
 }
 .nav-link.disabled {
   color: #6c757d;
